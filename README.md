@@ -65,8 +65,3 @@
 - **Tech Stack:** `Python` • `Ollama` • `Modelos de Lenguaje` • `Git`
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axwyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axwyk&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="160"/>
-</div>
