@@ -11,18 +11,6 @@
   <a href="https://axwyk.github.io">Portafolio</a>
 </p>
 
-<p align="center">
-  <a href="#alice"><img src="assets/alice/neutral.png" alt="Alice" width="60" height="72"></a>
-  &nbsp;
-  <a href="#nose"><img src="assets/nose/nosito-base-transparente.png" alt="NOSE, con su mascota Nosito" width="54" height="72"></a>
-  &nbsp;
-  <a href="#vintra"><img src="assets/vintra/icon.svg" alt="VINTRA" width="64" height="64"></a>
-  &nbsp;
-  <a href="#vialtros"><img src="assets/vialtros/icon.svg" alt="Vialtros" width="64" height="64"></a>
-</p>
-
-<p align="center"><sub>Cuatro proyectos, unas cuantas ideas y mucho por construir. Cada icono tiene una historia más abajo.</sub></p>
-
 ## Sobre mí
 
 Soy **Johan Patrick Márquez Yances**, aunque en internet soy **Axwyk**. Curso sexto semestre de Tecnología en Desarrollo de Software en la **Universidad del Valle, Sede Pacífico**.
@@ -33,7 +21,7 @@ Ahora construyo **Alice 2.0** y **NOSE**, colaboro en **VINTRA** y sigo aprendie
 
 ## Proyectos
 
-### Alice
+### <img src="assets/alice/neutral.png" alt="" width="27" height="32"> Alice
 
 **Un asistente de escritorio con personalidad en construcción.**<br>
 <sub>Proyecto personal · Alice 2.0 en desarrollo</sub>
@@ -64,7 +52,7 @@ Todavía no tiene un modelo de IA conectado, pero ya tiene siete expresiones par
 
 [Repositorio de Alice](https://github.com/Axwyk/Alice)
 
-### NOSE
+### <img src="assets/nose/nosito-base-transparente.png" alt="" width="24" height="32"> NOSE
 
 **Del «no sé» al «ya sé».**<br>
 <sub>Proyecto personal</sub>
@@ -75,9 +63,9 @@ Una app para esa pregunta que puede alargar cualquier plan: «¿y ahora qué hac
 - **Qué Ver:** para pasar menos tiempo eligiendo que viendo.
 - **Qué Hacer:** para que el plan salga del chat.
 
-Nosito, la mascota amarilla que viste arriba, pone la cara. La idea es que decidir deje de ser la parte más difícil del plan.
+Nosito, la mascota amarilla junto al título, pone la cara. La idea es que decidir deje de ser la parte más difícil del plan.
 
-### VINTRA
+### <img src="assets/vintra/icon.svg" alt="" width="32" height="32"> VINTRA
 
 **Mejor información para coordinar la recolección en Buenaventura.**<br>
 <sub>Proyecto académico · Trabajo en equipo · En desarrollo</sub>
@@ -96,7 +84,7 @@ Trabajamos por células, con ramas por funcionalidad y PostgreSQL como base de d
 
 [Repositorio de VINTRA](https://github.com/Univalle-P-I/VINTRA)
 
-### Vialtros
+### <img src="assets/vialtros/icon.svg" alt="" width="32" height="32"> Vialtros
 
 **Usuarios, conductores y rutas en una misma plataforma.**<br>
 <sub>Proyecto académico · Trabajo en equipo</sub>
