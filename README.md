@@ -21,7 +21,7 @@ Ahora construyo **Alice 2.0** y **NOSE**, colaboro en **VINTRA** y sigo aprendie
 
 ## Proyectos
 
-### <img src="assets/alice/neutral.png" alt="" width="27" height="32"> Alice
+### <img src="assets/alice/neutral.png" alt="" width="27" height="32" align="absmiddle"> Alice
 
 **Un asistente de escritorio con personalidad en construcción.**<br>
 <sub>Proyecto personal · Alice 2.0 en desarrollo</sub>
@@ -52,7 +52,7 @@ Todavía no tiene un modelo de IA conectado, pero ya tiene siete expresiones par
 
 [Repositorio de Alice](https://github.com/Axwyk/Alice)
 
-### <img src="assets/nose/nosito-base-transparente.png" alt="" width="24" height="32"> NOSE
+### <img src="assets/nose/nosito-base-transparente.png" alt="" width="24" height="32" align="absmiddle"> NOSE
 
 **Del «no sé» al «ya sé».**<br>
 <sub>Proyecto personal</sub>
@@ -65,7 +65,7 @@ Una app para esa pregunta que puede alargar cualquier plan: «¿y ahora qué hac
 
 Nosito, la mascota amarilla junto al título, pone la cara. La idea es que decidir deje de ser la parte más difícil del plan.
 
-### <img src="assets/vintra/icon.svg" alt="" width="32" height="32"> VINTRA
+### <img src="assets/vintra/icon.svg" alt="" width="32" height="32" align="absmiddle"> VINTRA
 
 **Mejor información para coordinar la recolección en Buenaventura.**<br>
 <sub>Proyecto académico · Trabajo en equipo · En desarrollo</sub>
@@ -84,7 +84,7 @@ Trabajamos por células, con ramas por funcionalidad y PostgreSQL como base de d
 
 [Repositorio de VINTRA](https://github.com/Univalle-P-I/VINTRA)
 
-### <img src="assets/vialtros/icon.svg" alt="" width="32" height="32"> Vialtros
+### <img src="assets/vialtros/icon.svg" alt="" width="32" height="32" align="absmiddle"> Vialtros
 
 **Usuarios, conductores y rutas en una misma plataforma.**<br>
 <sub>Proyecto académico · Trabajo en equipo</sub>
