@@ -1,4 +1,4 @@
-<h1 align="center">Johan Márquez</h1>
+<h1 align="center">¡Soy Patrick!</h1>
 
 <p align="center">
   <strong>Backend con Python. Interfaces con React. Curiosidad por Rust.</strong><br>
@@ -13,9 +13,9 @@
 
 ## Sobre mí
 
-Soy **Johan Patrick Márquez Yances**, aunque en internet soy **Axwyk**. Curso sexto semestre de Tecnología en Desarrollo de Software en la **Universidad del Valle, Sede Pacífico**.
+Soy **Patrick**, aunque en internet soy **Axwyk**. Curso sexto semestre de Tecnología en Desarrollo de Software en la **Universidad del Valle, Sede Buenaventura**.
 
-Me gusta el backend: modelar datos, diseñar APIs que tengan sentido y entender por qué algo decidió fallar a las 2 a. m. También me gusta que lo que construyo se vea bien, así que termino entrando al frontend más de lo planeado.
+Me gusta el backend: modelar datos, diseñar APIs que tengan sentido y entender por qué algo decidió fallar a las 2 a. m. También me gusta que lo que construyo se vea bien, así que termino entrando al frontend más de lo planeado, estoy aprendiendo practicas DevOps, QA.
 
 Ahora construyo **Alice 2.0** y **NOSE**, colaboro en **VINTRA** y sigo aprendiendo **Rust, Axum y Docker**. Estoy buscando **prácticas profesionales en desarrollo de software**, con especial interés en backend.
 
